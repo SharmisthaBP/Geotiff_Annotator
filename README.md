@@ -1,7 +1,7 @@
 # Geotiff_Annotator
 Can be used for annotating geotiff images
 
-Required libraries
+# Required libraries
 OpenCV
 PIL
 tifffile
