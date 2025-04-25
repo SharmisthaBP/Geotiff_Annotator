@@ -2,7 +2,7 @@
 Can be used for annotating geotiff images
 
 # Required libraries
-OpenCV
-PIL
-tifffile
-numpy
+OpenCV ;
+PIL ;
+tifffile ;
+numpy ;
